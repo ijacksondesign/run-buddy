@@ -254,6 +254,20 @@ section {
 
 /* End Trainer Section Styles */
 
+/* Start of Service Plans Styles */
+
+.service-grid-container {
+    display: grid;
+}
+
+.service-grid-item {
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    border: solid;
+    color: black;
+}
+
 /* Start Reach Out Styles */
 
 .contact {
@@ -382,7 +396,7 @@ footer a {
     }
 
     header nav ul li a {
-        font-size: 20x;
+        font-size: 20px;
     }
 
     footer h2, footer div {
